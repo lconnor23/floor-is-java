@@ -1,6 +1,6 @@
 # The Floor is Java
 
-![alt text](java-gif.gif)
+![alt text](images/java-gif.gif)
 
 Site is hosted [here](https://thefloorisjava.netlify.app/).
 
